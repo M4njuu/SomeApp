@@ -3,13 +3,13 @@
 ## 環境構築
 
 1. https://gitforwindows.org/ から、Gitをダウンロードする  
-   ![alt text](GitHomePage.png)
+   ![alt text](images/GitMemoImages/GitHomePage.png)
 
 2. git --version でインストールされたかを確認する  
-   ![alt text](GitVersionCheck.png)  
+   ![alt text](images/GitMemoImages/GitVersionCheck.png)  
 
 3. https://github.com/ から、GitHubのアカウントを作成する  
-   ![alt text](GitHubHomePage.png)
+   ![alt text](images/GitMemoImages/GitHubHomePage.png)
 
 4. 以下のコマンドで、Gitのユーザ名とメールアドレスを設定する。  
 
@@ -47,16 +47,18 @@
 
 1. リモートリポジトリを作成する  
    https://github.com/ へアクセスする
-   ![alt text](GitHubMyPage.png)
+   ![alt text](images/GitMemoImages/GitHubMyPage.png)
 
 2. Newを押す
-   ![alt text](New.png)
+   ![alt text](images/GitMemoImages/New.png)
 
 3. ...or create a repository on the command line の部分をコピペする
-   ![alt text](commands.png)
+   ![alt text](images/GitMemoImages/commands.png)
 
 4. コピペしたものを流す
-   ![alt text](beforeCommands.png)
+   ![alt text](images/GitMemoImages/beforeCommands.png)
 
 5. 流した後は以下の通り
-   ![alt text](afterCommands.png)
+   ![alt text](images/GitMemoImages/afterCommands.png)
+
+6. ![alt text](images/GitMemoImages/image.png)
